@@ -109,7 +109,7 @@ after wards just open the client and connect using the ip of your machine and po
 
 ## 📄 Documentation
 
-* [📘 Full Project Report (PDF)](docs/BankSystem_Report.pdf)
+* [📘 Full Project Report (PDF)](docs/Final Graduation Project Documentation.pdf)
 * [📊 Database Schema](images/Database_schema.png)
 
 ---
