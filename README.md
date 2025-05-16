@@ -1,7 +1,6 @@
 # DistributedBankSystem-Qt
 
-
-A secure, scalable client-server banking platform built with Qt/C++, featuring role-based access control, encrypted communications, and real-time transaction processing. This production-ready system demonstrates modern distributed architecture principles through its multi-threaded server design, JSON-based API communications, and Qt-powered cross-platform interfaces. With robust features like XOR-encrypted client-server messaging,  and a singleton database pattern, the platform serves as both an educational resource for Qt networking concepts and a foundation for commercial fintech applications. The modular design allows easy extension to WebSocket protocols.
+A secure and efficient client-server banking platform built using Qt/C++ with real-time operations, role-based access, and encrypted communication.
 ---
 
 ## 🚀 Key Features
@@ -11,7 +10,30 @@ A secure, scalable client-server banking platform built with Qt/C++, featuring r
 * XOR-based encryption for safe client-server communication
 * Role-based access: Admin and User modes
 * Secure audit logging in JSON format
-<!-- add part about websocktes -->
+
+
+
+🌐 WebSocket Integration
+(Secure real-time updates alongside traditional TCP)
+
+
+Key Features
+
+Bi-directional Push Notifications
+
+Balance updates
+
+Transaction confirmations
+
+Admin alerts (new user registrations)
+
+Enhanced Security
+
+Same XOR encryption as TCP channel
+
+Per-connection origin verification
+
+Automatic heartbeat (ping/pong)
 
 ### ⚡ Performance
 
