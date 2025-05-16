@@ -61,7 +61,7 @@ Automatic heartbeat (ping/pong)
 
 🛠️ Technical Design
 
-![Client-Server Communication](images/Communication.Png) 
+![Client-Server Communication](images/Communication.png) 
 
 Uses QTcpSocket with XOR encryption
 
