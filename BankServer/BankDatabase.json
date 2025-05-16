@@ -1,0 +1,247 @@
+[
+    {
+        "users": [
+            {
+                "account_number": "ACC1001",
+                "balance": 490,
+                "is_logged_in": true,
+                "password": "securePass123",
+                "transactions": [
+                    {
+                        "amount": -4500,
+                        "date": "2025-01-26",
+                        "transactionId": "4986123074"
+                    },
+                    {
+                        "amount": -10,
+                        "date": "2025-01-25",
+                        "transactionId": "6497453841"
+                    },
+                    {
+                        "amount": -2000,
+                        "date": "2025-01-02",
+                        "transactionId": "3720650932"
+                    },
+                    {
+                        "amount": -1000,
+                        "date": "2024-12-31",
+                        "transactionId": "5063496720"
+                    },
+                    {
+                        "amount": 3000,
+                        "date": "2024-12-27",
+                        "transactionId": "3071473124"
+                    },
+                    {
+                        "amount": -1000,
+                        "date": "2024-12-19",
+                        "transactionId": "2291831649"
+                    },
+                    {
+                        "amount": -1000,
+                        "date": "2024-12-14",
+                        "transactionId": "7211231649"
+                    }
+                ],
+                "username": "john_doe"
+            },
+            {
+                "account_number": "ACC1002",
+                "balance": 16510,
+                "is_logged_in": true,
+                "password": "pa55word!",
+                "transactions": [
+                    {
+                        "amount": 4500,
+                        "date": "2025-01-26",
+                        "transactionId": "8785677344"
+                    },
+                    {
+                        "amount": 10,
+                        "date": "2025-01-25",
+                        "transactionId": "3705109426"
+                    },
+                    {
+                        "amount": 2000,
+                        "date": "2025-01-02",
+                        "transactionId": "0040651106"
+                    },
+                    {
+                        "amount": 1000,
+                        "date": "2024-12-31",
+                        "transactionId": "3683796695"
+                    },
+                    {
+                        "amount": -3000,
+                        "date": "2024-12-27",
+                        "transactionId": "7105967615"
+                    },
+                    {
+                        "amount": 1000,
+                        "date": "2024-12-19",
+                        "transactionId": "5735802689"
+                    }
+                ],
+                "username": "jane_smith"
+            },
+            {
+                "account_number": "ACC1003",
+                "balance": 3796,
+                "is_logged_in": false,
+                "password": "pa55word!",
+                "transactions": [
+                    {
+                        "amount": 3000,
+                        "date": "2024-12-27",
+                        "transactionId": "1288266476"
+                    },
+                    {
+                        "amount": 2000,
+                        "date": "2024-12-06",
+                        "transactionId": "3695802689"
+                    },
+                    {
+                        "amount": -2000,
+                        "date": "2024-12-06",
+                        "transactionId": "5193812689"
+                    }
+                ],
+                "username": "David_hector"
+            },
+            {
+                "account_number": "ACC1004",
+                "balance": 47700,
+                "is_logged_in": true,
+                "password": "Dewidar123",
+                "transactions": [
+                    {
+                        "amount": -2300,
+                        "date": "2025-05-16",
+                        "transactionId": "4014931961"
+                    },
+                    {
+                        "amount": -3000,
+                        "date": "2024-12-28",
+                        "transactionId": "8774001471"
+                    },
+                    {
+                        "amount": 3000,
+                        "date": "2024-12-28",
+                        "transactionId": "2457545861"
+                    },
+                    {
+                        "amount": -5000,
+                        "date": "2024-12-19",
+                        "transactionId": "1963312689"
+                    },
+                    {
+                        "amount": 67000,
+                        "date": "2024-12-19",
+                        "transactionId": "8247312689"
+                    }
+                ],
+                "username": "Mohamed_Dewidar"
+            },
+            {
+                "account_number": "ACC1005",
+                "balance": 16000,
+                "is_logged_in": true,
+                "password": "Mojamd",
+                "transactions": [
+                    {
+                        "amount": -300,
+                        "date": "2025-01-25",
+                        "transactionId": "5178547837"
+                    },
+                    {
+                        "amount": 300,
+                        "date": "2025-01-25",
+                        "transactionId": "1225272955"
+                    },
+                    {
+                        "amount": 3000,
+                        "date": "2024-12-28",
+                        "transactionId": "2236537508"
+                    },
+                    {
+                        "amount": 3000,
+                        "date": "2024-12-28",
+                        "transactionId": "4405749776"
+                    },
+                    {
+                        "amount": 5000,
+                        "date": "2024-12-19",
+                        "transactionId": "6961824329"
+                    }
+                ],
+                "username": "emily_clark"
+            },
+            {
+                "account_number": "ACC1006",
+                "balance": 51990,
+                "is_logged_in": true,
+                "password": "M339dsjd45",
+                "transactions": [
+                    {
+                        "amount": 3000,
+                        "date": "2025-01-25",
+                        "transactionId": "7297039965"
+                    },
+                    {
+                        "amount": 200,
+                        "date": "2024-11-23",
+                        "transactionId": "4923402689"
+                    }
+                ],
+                "username": "Mahmouud_osman"
+            },
+            {
+                "account_number": "ACC10038",
+                "balance": 3000,
+                "is_logged_in": true,
+                "password": "a23jd",
+                "transactions": [
+                    {
+                        "amount": 1000,
+                        "date": "2024-12-27",
+                        "transactionId": "2962805689"
+                    }
+                ],
+                "username": "adham hossam"
+            },
+            {
+                "account_number": "Acc1001773",
+                "balance": 493700,
+                "is_logged_in": true,
+                "password": "M33820055mmg",
+                "transactions": [
+                    {
+                        "amount": 3700,
+                        "date": "2025-05-16",
+                        "transactionId": "4929080711"
+                    }
+                ],
+                "username": "Mohamed_Magdy_Dewidar"
+            }
+        ]
+    },
+    {
+        "admins": [
+            {
+                "is_logged_in": true,
+                "password": "adminPass123",
+                "username": "admin1"
+            },
+            {
+                "is_logged_in": false,
+                "password": "superAdmin!",
+                "username": "admin2"
+            },
+            {
+                "is_logged_in": true,
+                "password": "admin12345",
+                "username": "admin3"
+            }
+        ]
+    }
+]

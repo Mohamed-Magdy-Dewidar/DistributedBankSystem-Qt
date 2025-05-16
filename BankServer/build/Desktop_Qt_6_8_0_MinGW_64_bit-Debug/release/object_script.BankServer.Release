@@ -1,0 +1,11 @@
+release/BankDataBase.o
+release/ClientThread.o
+release/.o
+release/ClientThread.o
+release/RequestProcessor.o
+release/Server.o
+release/main.o
+release/moc_BankDataBase.o
+release/moc_ClientThread.o
+release/moc_RequestProcessor.o
+release/moc_Server.o
