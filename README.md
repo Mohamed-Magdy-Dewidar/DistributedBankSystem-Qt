@@ -73,6 +73,7 @@ RequestProcessor	Executes commands via registry pattern
 BankDatabase	Singleton JSON database manager
 
 
+
 🧰 Getting Started
 📦 Prerequisites
 Qt 6.4+ (with WebSockets module)
@@ -83,11 +84,12 @@ Git (for cloning repository)
 🔧 Build & Setup
 Clone Repository:
 
-bash
-git clone https://github.com/Mohamed-Magdy-Dewidar/DistributedBankSystem-Qt.git
-cd DistributedBankSystem-Qt
-Configure Database Path:
 
+git clone https://github.com/Mohamed-Magdy-Dewidar/DistributedBankSystem-Qt.git
+
+cd DistributedBankSystem-Qt
+
+Configure Database Path:
 Edit BankServer/BankDatabase.cpp:
 
 cpp
@@ -99,7 +101,6 @@ cpp
 Path("C:/Dev/BankSystem/BankServer/BankDatabase.json");
 Build Projects:
 
-bash
 # Build Server
 cd BankServer
 Open the .pro File and Build and run the Project and it automatically listens to port 1234 Default TCP mode (port 1234)
